@@ -1,5 +1,5 @@
 # DSA-QS-SOLUTIONS
-This repository contains my Java solutions to LeetCode problems, maintained as part of a personal consistency challenge and Data Structures & Algorithms practice.
+This repository contains my solutions to LeetCode problems, maintained as part of a personal consistency challenge and Data Structures & Algorithms practice.
 
 As a Computer Science student, my goal with this repository is to:
 
